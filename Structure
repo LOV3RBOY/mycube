@@ -1,0 +1,20 @@
+LVR-Professional-Cube-Display/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   ├── developer/
+│   │   └── page.tsx
+│   └── viewer/
+│       └── page.tsx
+├── components/
+│   ├── EnhancedCubeDisplay.tsx
+│   └── PasswordUnlock.tsx
+├── public/
+│   └── placeholder.svg
+├── .gitignore
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── README.md
+└── tailwind.config.js
